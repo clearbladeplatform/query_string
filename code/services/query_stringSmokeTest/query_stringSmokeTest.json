@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,query_string",
+    "logging_enabled": "false",
+    "name": "query_stringSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "query_stringSmokeTest.js"
+}
